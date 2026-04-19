@@ -13,8 +13,6 @@ This project analyzes energy consumption patterns, renewable energy share, CO2 e
 ## 🛠 Tools Used
 * Power BI
 * Excel / CSV Dataset
-## Dashboard Preview
-(Add your screenshots here)
 ## How to Use
 1. Download the .pbix file
 2. Open in Power BI Desktop
